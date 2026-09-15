@@ -1,0 +1,11 @@
+echo off
+cd desktop
+mkdir ROOT_LABYRINTH
+cd ROOT_LABYRINTH
+mkdir SECTOR_A
+cd SECTOR_A
+echo naydin gerasieva > secret.txt
+cd..
+mkdir SECTOR_B
+cd SECTOR_B
+echo IS-26-7K > history_log.txt
